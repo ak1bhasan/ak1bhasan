@@ -6,7 +6,7 @@ Aspiring software developer and current student at Metropolitan University with 
 
 - **Languages:** C, C++
 - **Tools:** Visual Studio Code, Git
-- **Operating Systems:** Windows, Linux
+- **Operating Systems:** Windows
 
 ## 📈 GitHub Stats
 
