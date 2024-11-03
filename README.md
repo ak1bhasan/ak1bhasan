@@ -1,16 +1,20 @@
-## Hi there 👋
+# 👋 Hello! I'm Akib Hasan
 
-<!--
-**ak1bhasan/ak1bhasan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Aspiring software developer and current student at Metropolitan University with a strong foundation in C and C++. I am passionate about creating efficient and well-structured code, and I’m always eager to learn and explore new areas in programming.
 
-Here are some ideas to get you started:
+## 💼 Technologies & Tools
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Languages:** C, C++
+- **Tools:** Visual Studio Code, Git
+- **Operating Systems:** Windows, Linux
+
+## 📈 GitHub Stats
+
+![Akib's GitHub stats](https://github-readme-stats.vercel.app/api?username=ak1bhasan&show_icons=true&theme=graywhite&hide_title=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ak1bhasan&layout=compact&theme=graywhite)
+
+## 📬 Connect with Me
+
+- [LinkedIn](https://www.linkedin.com/in/ak1bhasan/)
+- [Twitter](https://x.com/____akibbb)
+- [Facebook](https://www.facebook.com/akib.hasan.148553)
