@@ -1,6 +1,6 @@
 #  Hello! I'm Akib Hasan
 
-Aspiring software developer and current student at -[Metropolitan University](https://metrouni.edu.bd/) with a strong foundation in C and C++. I am passionate about creating efficient and well-structured code, and I’m always eager to learn and explore new areas in programming.
+Aspiring software developer and current student at [Metropolitan University](https://metrouni.edu.bd/) with a strong foundation in C and C++. I am passionate about creating efficient and well-structured code, and I’m always eager to learn and explore new areas in programming.
 
 ## 💼 Technologies & Tools
 
