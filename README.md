@@ -1,38 +1,46 @@
-# 👋 Hi, I'm Akib Hasan  
+# 👨‍💻 MD. Masudul Hasan Akib  
 
-I’m a **passionate problem solver** and an **aspiring software developer** currently pursuing my degree in **Computer Science and Engineering** at [Metropolitan University](https://metrouni.edu.bd/). With a strong foundation in **C** and **C++**, I’m dedicated to writing clean, efficient, and maintainable code. My journey is fueled by curiosity and a constant drive to explore new technologies and challenges.  
+🎓 **Computer Science and Engineering Student** at [Metropolitan University](https://metrouni.edu.bd/)  
+🌱 **Aspiring Software Developer** | **Problem Solver** | **C++ Enthusiast**  
+🚀 Passionate about building efficient solutions, exploring cutting-edge technologies, and contributing to meaningful projects.  
 
 ---
 
-## 🛠️ Technical Skills  
+## 🛠️ Technical Expertise  
 
-### Languages  
-- **C**: Proficient in designing algorithms and solving problems.  
-- **C++**: Currently expanding my knowledge with advanced concepts and problem-solving techniques.  
+### 💻 Programming Languages  
+- **C**: Proficient in problem-solving and algorithm implementation.  
+- **C++**: Focused on mastering object-oriented programming and efficient data structures.  
 
-### Tools & Platforms  
-- **Problem-Solving IDE**: Code::Blocks  
-- **Version Control**: Git  
-- **Development Environment**: Visual Studio Code  
+### 🧰 Tools & Technologies  
+- **Code Editors & IDEs**: Code::Blocks, Visual Studio Code  
+- **Version Control**: Git & GitHub  
 - **Operating Systems**: Windows  
 
+### 📚 Academic Interests  
+- **Data Structures & Algorithms**: Learning how to design optimal solutions for complex problems.  
+- **Object-Oriented Programming (OOP)**: Exploring C++ to enhance code reusability and scalability.  
+
 ---
 
-## 📈 GitHub Insights  
+## 📊 GitHub Insights  
 
-![Akib's GitHub stats](https://github-readme-stats.vercel.app/api?username=ak1bhasan&show_icons=true&theme=tokyonight&hide_title=true)  
+![Akib's GitHub stats](https://github-readme-stats.vercel.app/api?username=ak1bhasan&show_icons=true&theme=tokyonight&hide_title=true&count_private=true)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ak1bhasan&layout=compact&theme=tokyonight)  
 
 ---
 
-## 🌟 Core Values  
-- **Passion for Learning**: I thrive on expanding my skill set and adapting to new challenges.  
-- **Problem-Solving Enthusiast**: I enjoy tackling logical challenges and refining my coding skills.  
-- **Growth Mindset**: Continuous improvement is at the heart of everything I do.  
+## 🏆 Highlights  
+
+- 🔥 **Starting Competitive Programming**: Strengthening problem-solving skills with Code::Blocks.  
+- 📈 **Growth-Oriented**: Continuously learning and applying new concepts in C and C++.  
+- 💡 **Keen Collaborator**: Open to working on innovative projects and expanding my network.  
 
 ---
 
 ## 🌐 Connect with Me  
+
+Let’s connect and build something amazing together!  
 
 - [LinkedIn](https://www.linkedin.com/in/ak1bhasan/)  
 - [Twitter](https://x.com/____akibbb)  
@@ -40,12 +48,38 @@ I’m a **passionate problem solver** and an **aspiring software developer** cur
 
 ---
 
-## 🌱 Current Focus  
+## 🎯 Current Goals  
 
-- Enhancing my problem-solving skills through **competitive programming**.  
-- Diving deeper into **C++ concepts** to build a strong command of the language.  
-- Building foundational knowledge in **data structures** and **algorithms** for real-world applications.  
+- 🚀 **Mastering C++ Concepts**: Including advanced topics like STL (Standard Template Library) and memory management.  
+- 🧩 **Problem Solving**: Improving logic-building skills with competitive programming platforms.  
+- 📘 **Exploring Software Development**: Gaining exposure to real-world coding practices.  
+- 🛠️ **Future Technologies**: Starting with beginner-friendly frameworks like **HTML, CSS, and Python** (future focus).  
 
 ---
 
-Thank you for visiting my profile! Let's collaborate and build something amazing together! 🚀  
+## 🔗 Featured Projects  
+
+### 📌 **[Library Management System](https://github.com/ak1bhasan/library-management)**  
+- A simple terminal-based system for managing book borrowing and return records.  
+- Built with **C** during my coursework to strengthen foundational programming skills.
+
+### 📌 **[Class Routine Organizer](https://github.com/ak1bhasan/class-routine)**  
+- Terminal-based interactive program for managing class schedules by weekdays.  
+- Written in **C** to practice menu-driven and input/output handling techniques.
+
+---
+
+## 🤔 About Me  
+
+- 💭 I believe that **learning never stops**, and I’m eager to grow in a fast-paced environment that challenges me.  
+- 🌟 I am inspired by the idea of solving **real-world problems** with elegant code.  
+- 🎨 In my downtime, I enjoy **traveling** (recently visited **Cox's Bazar** and **Bandarban**) and sharing photography moments on Instagram.  
+
+---
+
+### ✨ Fun Fact  
+> The journey of coding is like solving a puzzle; every line you write brings you closer to a bigger picture. I’m excited to explore this picture with every project I take on!  
+
+---
+
+_Thank you for stopping by! Feel free to reach out for collaboration, mentorship, or just to chat!_ 😊  
