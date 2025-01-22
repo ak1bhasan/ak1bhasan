@@ -47,5 +47,4 @@ I’m a **passionate problem solver** and an **aspiring software developer** cur
 - Building foundational knowledge in **data structures** and **algorithms** for real-world applications.  
 
 ---
-
-Thank you for visiting my profile! Let's collaborate and build something amazing together! 🚀  
+  
