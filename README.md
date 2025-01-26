@@ -1,42 +1,33 @@
-Here's a more concise version of your GitHub README:
-
----
-
 # 👋 Hi, I'm Akib Hasan  
 
-I’m a **problem solver** and an **aspiring software developer**, pursuing **Computer Science and Engineering** at [Metropolitan University](https://metrouni.edu.bd/). With expertise in **C** and a growing command of **C++**, I’m dedicated to mastering problem-solving, algorithms, and clean coding practices.  
+I’m a *passionate problem solver* and an *aspiring software developer* currently pursuing my degree in *Computer Science and Engineering* at [Metropolitan University](https://metrouni.edu.bd/). With a strong foundation in *C* and *C++*, I’m dedicated to writing clean, efficient, and maintainable code. My journey is fueled by curiosity and a constant drive to explore new technologies and challenges.  
 
 ---
 
-## 🛠️ Skills  
+## 🛠 Technical Skills  
 
-- **Languages**:  
-  - **C**: ✅✅✅✅🔲 (Proficient)  
-  - **C++**: ✅✅🔲🔲🔲 (Learning)  
-- **Tools**: Code::Blocks, Git, Visual Studio Code  
-- **OS**: Windows  
+### Languages  
+- *C*: Proficient in designing algorithms and solving problems.  
+- *C++*: Currently expanding my knowledge with advanced concepts and problem-solving techniques.  
+
+### Tools & Platforms  
+- *Problem-Solving IDE*: Code::Blocks  
+- *Version Control*: Git  
+- *Development Environment*: Visual Studio Code  
+- *Operating Systems*: Windows  
 
 ---
 
-## 📈 GitHub Stats  
+## 📈 GitHub Insights  
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ak1bhasan&show_icons=true&theme=tokyonight&hide_title=true)  
+![Akib's GitHub stats](https://github-readme-stats.vercel.app/api?username=ak1bhasan&show_icons=true&theme=tokyonight&hide_title=true)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ak1bhasan&layout=compact&theme=tokyonight)  
 
 ---
-
-## 🌱 Focus  
-
-- Advancing **C++** for competitive programming.  
-- Solving algorithmic challenges to build logic and efficiency.  
-- Exploring **data structures** for real-world applications.  
-
----
-
-## 🌐 Connect  
+## 🌐 Connect with Me  
 
 - [LinkedIn](https://www.linkedin.com/in/ak1bhasan/)  
-- [Twitter](https://x.com/____akibbb)  
+- [Twitter](https://x.com/__akibbb)  
 - [Facebook](https://www.facebook.com/akib.hasan.148553)  
 
 ---
