@@ -1,11 +1,13 @@
 # 👋 Hi, I'm Akib Hasan  
-**akibhasan** · he/him · Bangladesh (UTC+06:00)  
-📍 Computer Science Student | Competitive Programmer  
+**Competitive Programmer | CSE Student | Problem Solver**  
+
+📍 Bangladesh (UTC+06:00)  
+📚 Studying Computer Science at [Metropolitan University](https://metrouni.edu.bd/)  
+💻 C/C++ Specialist | Algorithm Enthusiast  
 
 ---
 
 ## 🛠 Technical Skills  
-
 ### **Core Languages**  
 - <img src="https://img.shields.io/badge/C-00599C?logo=c&logoColor=white"> System programming, Algorithms  
 - <img src="https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white"> STL, Competitive Programming  
