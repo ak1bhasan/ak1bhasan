@@ -11,7 +11,10 @@ I'm a passionate problem solver and aspiring software developer currently pursui
 - **C++**: Skilled in STL and competitive programming techniques  
 
 ### Competitive Programming Platforms  
-<img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=flat&logo=codeforces&logoColor=white" height="20"> <img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=black" height="20"> <img src="https://img.shields.io/badge/CodeChef-5B4638?style=flat&logo=codechef&logoColor=white" height="20"> <img src="https://img.shields.io/badge/AtCoder-000000?style=flat&logo=atcoder&logoColor=white" height="20">
+[![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=flat&logo=codeforces&logoColor=white)](https://codeforces.com/profile/ak1b_hasan)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=black)](https://leetcode.com/u/ak1b_hasan/)
+[![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=flat&logo=codechef&logoColor=white)](https://www.codechef.com/users/jax_teller)
+[![AtCoder](https://img.shields.io/badge/AtCoder-000000?style=flat&logo=atcoder&logoColor=white)](https://atcoder.jp/users/akib_hasannnn)
 
 ### Development Environment  
 - **IDEs**: Visual Studio Code, Code::Blocks  
