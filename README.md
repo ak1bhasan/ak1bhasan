@@ -32,7 +32,7 @@ I'm Akib Hasan, a **Competitive Programmer** and **Computer Science and Engineer
 ### 🚀 Projects  
 
 - **[0/1 Knapsack Visualizer](https://github.com/ak1bhasan/ADA-Project)**  
-  A terminal-based project built using **C** to visualize the 0/1 Knapsack problem, helping users understand dynamic programming.
+  A terminal-based project built using **C++** to visualize the 0/1 Knapsack problem, helping users understand dynamic programming.
   - **Technologies Used**: C++, Dynamic Programming
 
 - **[Library Management System](https://github.com/ak1bhasan/FirstProjectMU)**  
