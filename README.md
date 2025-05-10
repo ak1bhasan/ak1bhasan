@@ -13,8 +13,6 @@ I'm Akib Hasan, a Competitive Programmer and Computer Science & Engineering (CSE
 
 ### 🔧 Technical Skills  
 
-### 🔧 Technical Skills  
-
 - **Languages**: C, C++  
 - **Tools & Frameworks**: C++ STL, Git, Visual Studio Code, Code::Blocks  
 
