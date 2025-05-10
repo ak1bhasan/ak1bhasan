@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FFFF&center=true&vCenter=true&width=600&lines=Hi+there+%F0%9F%91%8B;I'm+Akib+Hasan;Competitive+Programmer+%7C+CSE+Undergrad)](https://git.io/typing-svg)
 
-<img align="right" alt="Problem Solving" width="300" src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" />
+<img align="right" alt="Coding" width="300" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" />
 
 ---
 
@@ -11,8 +11,8 @@ I'm a passionate problem solver and aspiring software developer currently pursui
 ## 🛠 Technical Skills  
 
 ### Core Languages  
-- **C**: Proficient in system programming and algorithm design  
-- **C++**: Skilled in STL and competitive programming techniques  
+- *C*: Proficient in system programming and algorithm design  
+- *C++*: Skilled in STL and competitive programming techniques  
 
 ### Competitive Programming Platforms  
 [![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=flat&logo=codeforces&logoColor=white)](https://codeforces.com/profile/ak1b_hasan)
@@ -21,9 +21,9 @@ I'm a passionate problem solver and aspiring software developer currently pursui
 [![AtCoder](https://img.shields.io/badge/AtCoder-000000?style=flat&logo=atcoder&logoColor=white)](https://atcoder.jp/users/akib_hasannnn)
 
 ### Development Environment  
-- **IDEs**: Visual Studio Code, Code::Blocks  
-- **Version Control**: Git  
-- **OS**: Windows  
+- *IDEs*: Visual Studio Code, Code::Blocks  
+- *Version Control*: Git  
+- *OS*: Windows  
 
 ---
 
