@@ -13,11 +13,12 @@ I'm Akib Hasan, a **Competitive Programmer** and **Computer Science and Engineer
 
 - **Languages**: C, C++  
 - **Tools & Frameworks**: C++ STL, Git, Visual Studio Code, Code::Blocks  
-- **Competitive Programming Platforms**:  
-  - [Codeforces](https://codeforces.com/profile/ak1b_hasan)  
-  - [LeetCode](https://leetcode.com/u/ak1b_hasan/)  
-  - [CodeChef](https://www.codechef.com/users/jax_teller)  
-  - [AtCoder](https://atcoder.jp/users/akib_hasannnn)
+
+### Competitive Programming Platforms:  
+[![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=flat&logo=codeforces&logoColor=white)](https://codeforces.com/profile/ak1b_hasan)  
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=black)](https://leetcode.com/u/ak1b_hasan/)  
+[![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=flat&logo=codechef&logoColor=white)](https://www.codechef.com/users/jax_teller)  
+[![AtCoder](https://img.shields.io/badge/AtCoder-000000?style=flat&logo=atcoder&logoColor=white)](https://atcoder.jp/users/akib_hasannnn)
 
 ---
 
