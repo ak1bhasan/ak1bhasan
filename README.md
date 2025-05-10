@@ -35,12 +35,6 @@ I'm a passionate problem solver and aspiring software developer currently pursui
 
 ---
 
-## 🏆 Achievements
-- Ranked in the top 10% on [Codeforces](https://codeforces.com/profile/ak1b_hasan)
-- Successfully solved over 300 problems on [LeetCode](https://leetcode.com/u/ak1b_hasan/)
-
----
-
 ## 📈 GitHub Insights  
 
 ![Akib's GitHub stats](https://github-readme-stats.vercel.app/api?username=ak1bhasan&show_icons=true&theme=tokyonight)  
