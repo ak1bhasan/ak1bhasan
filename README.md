@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FFFF&center=true&vCenter=true&width=600&lines=Hi+there+%F0%9F%91%8B;I'm+Akib+Hasan;Competitive+Programmer+%7C+CSE+Undergrad)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=800&color=00FFFF&center=true&vCenter=true&width=600&lines=Hi+there+%F0%9F%91%8B;I'm+Akib+Hasan;Competitive+Programmer+%7C+CSE+Undergrad)](https://git.io/typing-svg)
 
 <img align="right" alt="Coding" width="300" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" />
 
@@ -29,9 +29,9 @@ I'm a passionate problem solver and aspiring software developer currently pursui
 
 ## 📚 Currently Learning
 
-- Advanced C++ STL techniques  
-- Dynamic Programming and Graph Algorithms  
-- Building algorithm visualizers in terminal using C/C++  
+- STL  
+- Data Structures  
+- Algorithm and Data Analysis  
 
 ---
 
@@ -54,3 +54,5 @@ I'm a passionate problem solver and aspiring software developer currently pursui
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ak1bhasan/)  
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/__akibbb)  
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/akib.hasan.148553)
+
+---
