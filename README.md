@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=800&color=00FFFF&center=true&vCenter=true&width=600&lines=Hi+there;I'm+Akib+Hasan;Competitive+Programmer+%7C+CSE+Undergrad)](https://git.io/typing-svg)
 
-<img align="right" alt="Akib's Profile" width="300" src="https://your-image-url.com/your-image.png" />
+<img align="right" alt="Coding" width="300" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" />
 
 ---
 
