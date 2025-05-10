@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=800&color=00FFFF&center=true&vCenter=true&width=600&lines=Hi+there;I'm+Akib+Hasan;Competitive+Programmer+%7C+CSE+Undergrad)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=600&color=00FFFF&center=true&vCenter=true&width=600&lines=Hi+there;I'm+Akib+Hasan;Competitive+Programmer+%7C+CSE+Undergrad)](https://git.io/typing-svg)
 
 <img align="right" alt="Coding" width="300" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" />
 
@@ -53,7 +53,7 @@ I'm Akib Hasan, a **Competitive Programmer** and **Computer Science and Engineer
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ak1bhasan/)  
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/__akibbb)  
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/akib.hasan.148553)  
-[![Email](https://img.shields.io/badge/Email-akibhasan011%40gmail.com-orange?style=for-the-badge&logo=gmail&logoColor=white)](mailto:akibhasan011@gmail.com)
+[![Email](https://img.shields.io/badge/Email-orange?style=for-the-badge&logo=gmail&logoColor=white)](mailto:akibhasan011@gmail.com)
 
 ---
 
