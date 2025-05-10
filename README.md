@@ -5,7 +5,7 @@
 ---
 
 ### About Me  
-I'm Akib Hasan, a **Competitive Programmer** and **Computer Science and Engineering (CSE)** student at [Metropolitan University](https://metrouni.edu.bd/). I have a strong foundation in **C** and **C++**, and I am deeply passionate about solving algorithmic challenges and continuously improving my skills. My goal is to contribute to impactful software solutions and gain hands-on experience in software development and system design.
+I'm Akib Hasan, a **Competitive Programmer** and **Computer Science and Engineering (CSE)** student at [Metropolitan University](https://metrouni.edu.bd/). I have a strong foundation in **C** and **C++**, with a keen interest in algorithmic problem-solving. My goal is to leverage my skills in building impactful software solutions, focusing on both system-level design and high-performance applications. I’m passionate about data structures, algorithms, and software development and aim to continuously enhance my problem-solving and coding skills.
 
 ---
 
@@ -31,11 +31,13 @@ I'm Akib Hasan, a **Competitive Programmer** and **Computer Science and Engineer
 
 ### 🚀 Projects  
 
-- [**0/1 Knapsack Visualizer**](https://github.com/ak1bhasan/knapsack-visualizer)  
-  A terminal-based project to visualize the 0/1 Knapsack problem, helping users understand dynamic programming.
+- **[0/1 Knapsack Visualizer](https://github.com/ak1bhasan/knapsack-visualizer)**  
+  A terminal-based project built using **C** to visualize the 0/1 Knapsack problem, helping users understand dynamic programming.
+  - **Technologies Used**: C, Dynamic Programming
 
-- [**Library Management System**](https://github.com/ak1bhasan/library-management)  
-  A simple **C**-based Library Management System that allows users to manage books, authors, and borrowers.
+- **[Library Management System](https://github.com/ak1bhasan/library-management)**  
+  A simple **C**-based Library Management System for managing books, authors, and borrowers.
+  - **Technologies Used**: C, File Handling
 
 ---
 
@@ -51,6 +53,7 @@ I'm Akib Hasan, a **Competitive Programmer** and **Computer Science and Engineer
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ak1bhasan/)  
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/__akibbb)  
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/akib.hasan.148553)  
+[![Email](https://img.shields.io/badge/Email-akibhasan011%40gmail.com-orange?style=for-the-badge&logo=gmail&logoColor=white)](mailto:akibhasan011@gmail.com)
 
 ---
 
