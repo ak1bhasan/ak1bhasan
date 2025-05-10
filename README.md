@@ -33,7 +33,7 @@ I'm Akib Hasan, a **Competitive Programmer** and **Computer Science and Engineer
 
 - **[0/1 Knapsack Visualizer](https://github.com/ak1bhasan/knapsack-visualizer)**  
   A terminal-based project built using **C** to visualize the 0/1 Knapsack problem, helping users understand dynamic programming.
-  - **Technologies Used**: C, Dynamic Programming
+  - **Technologies Used**: C++, Dynamic Programming
 
 - **[Library Management System](https://github.com/ak1bhasan/library-management)**  
   A simple **C**-based Library Management System for managing books, authors, and borrowers.
