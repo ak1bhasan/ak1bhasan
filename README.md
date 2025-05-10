@@ -13,14 +13,27 @@ I'm Akib Hasan, a Competitive Programmer and Computer Science & Engineering (CSE
 
 ### 🔧 Technical Skills  
 
-- **Languages**: C, C++  
-- **Tools & Frameworks**: C++ STL, Git, Visual Studio Code, Code::Blocks  
+- **Languages**:  
+  ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)  
+  ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)  
 
-### Competitive Programming Platforms:  
-[![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=flat&logo=codeforces&logoColor=white)](https://codeforces.com/profile/ak1b_hasan)  
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=black)](https://leetcode.com/u/ak1b_hasan/)  
-[![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=flat&logo=codechef&logoColor=white)](https://www.codechef.com/users/jax_teller)  
-[![AtCoder](https://img.shields.io/badge/AtCoder-000000?style=flat&logo=atcoder&logoColor=white)](https://atcoder.jp/users/akib_hasannnn)
+- **Tools & Frameworks**:  
+  ![C++ STL](https://img.shields.io/badge/C%2B%2B%20STL-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)  
+  ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
+  ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)  
+  ![Code::Blocks](https://img.shields.io/badge/Code::Blocks-000000?style=for-the-badge)
+
+
+### 🏆 Competitive Programming Platforms  
+
+[![Codeforces](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Codeforces.svg)](https://codeforces.com/profile/ak1b_hasan)
+&nbsp;
+[![LeetCode](https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png)](https://leetcode.com/u/ak1b_hasan/)
+&nbsp;
+[![CodeChef](https://cdn.codechef.com/sites/all/themes/abessive/cc-logo.svg)](https://www.codechef.com/users/jax_teller)
+&nbsp;
+[![AtCoder](https://img.atcoder.jp/assets/icon/atcoder.png)](https://atcoder.jp/users/akib_hasannnn)
+
 
 ---
 
@@ -52,10 +65,10 @@ I'm Akib Hasan, a Competitive Programmer and Computer Science & Engineering (CSE
 
 ### 🌐 Connect with Me  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ak1bhasan/)  
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/__akibbb)  
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/akib.hasan.148553)  
-[![Email](https://img.shields.io/badge/Email-orange?style=for-the-badge&logo=gmail&logoColor=white)](mailto:akibhasan011@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ak1bhasan/)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/akib.hasan.148553)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/__akibbb/)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/__akibbb)
 
 ---
 
