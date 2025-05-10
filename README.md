@@ -2,8 +2,6 @@
 
 ---
 
-# 👋 Hi, I'm Akib Hasan  
-
 I'm a passionate problem solver and aspiring software developer currently pursuing my degree in Computer Science and Engineering at [Metropolitan University](https://metrouni.edu.bd/). With a strong foundation in C and C++, I'm dedicated to writing clean, efficient, and maintainable code. My journey is fueled by curiosity and a constant drive to explore new technologies and challenges.  
 
 ---
