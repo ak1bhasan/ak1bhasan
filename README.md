@@ -4,8 +4,10 @@
 
 ---
 
-### About Me  
-I'm Akib Hasan, a **Competitive Programmer** and **Computer Science and Engineering (CSE)** student at [Metropolitan University](https://metrouni.edu.bd/). I have a strong foundation in **C** and **C++**, with a keen interest in algorithmic problem-solving. My goal is to leverage my skills in building impactful software solutions, focusing on both system-level design and high-performance applications. I’m passionate about data structures, algorithms, and software development and aim to continuously enhance my problem-solving and coding skills.
+### 👨‍💻 About Me  
+
+I'm Akib Hasan, a Competitive Programmer and Computer Science & Engineering (CSE) student at [Metropolitan University](https://metrouni.edu.bd/). I have a solid foundation in C and C++, and a strong passion for algorithmic problem-solving, data structures, and software development. I’m currently deepening my knowledge in STL (Standard Template Library), Data Structures (DS), and Algorithm Design & Analysis (AD&A). My goal is to build efficient, high-performance, and impactful software solutions, while continuously improving my coding and problem-solving skills through hands-on projects and competitive programming.
+
 
 ---
 
