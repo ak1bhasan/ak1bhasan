@@ -15,10 +15,10 @@ I'm Akib Hasan, a **Competitive Programmer** and **Computer Science and Engineer
 - **Tools & Frameworks**: C++ STL, Git, Visual Studio Code, Code::Blocks  
 
 ### Competitive Programming Platforms:  
-[![Codeforces](https://raw.githubusercontent.com/ak1bhasan/ak1bhasan/master/images/codeforces-logo.png)](https://codeforces.com/profile/ak1b_hasan)  
-[![LeetCode](https://raw.githubusercontent.com/ak1bhasan/ak1bhasan/master/images/leetcode-logo.png)](https://leetcode.com/u/ak1b_hasan/)  
-[![CodeChef](https://raw.githubusercontent.com/ak1bhasan/ak1bhasan/master/images/codechef-logo.png)](https://www.codechef.com/users/jax_teller)  
-[![AtCoder](https://raw.githubusercontent.com/ak1bhasan/ak1bhasan/master/images/atcoder-logo.png)](https://atcoder.jp/users/akib_hasannnn)
+[![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=flat&logo=codeforces&logoColor=white)](https://codeforces.com/profile/ak1b_hasan)  
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=black)](https://leetcode.com/u/ak1b_hasan/)  
+[![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=flat&logo=codechef&logoColor=white)](https://www.codechef.com/users/jax_teller)  
+[![AtCoder](https://img.shields.io/badge/AtCoder-000000?style=flat&logo=atcoder&logoColor=white)](https://atcoder.jp/users/akib_hasannnn)
 
 ---
 
