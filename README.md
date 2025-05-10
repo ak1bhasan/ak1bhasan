@@ -1,5 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FFFF&center=true&vCenter=true&width=600&lines=Hi+there+%F0%9F%91%8B;I'm+Akib+Hasan;Competitive+Programmer+%7C+CSE+Undergrad)](https://git.io/typing-svg)
 
+<img align="right" alt="Coding" width="300" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" />
+
 ---
 
 I'm a passionate problem solver and aspiring software developer currently pursuing my degree in Computer Science and Engineering at [Metropolitan University](https://metrouni.edu.bd/). With a strong foundation in C and C++, I'm dedicated to writing clean, efficient, and maintainable code. My journey is fueled by curiosity and a constant drive to explore new technologies and challenges.
