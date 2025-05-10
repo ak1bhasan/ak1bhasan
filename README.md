@@ -25,6 +25,14 @@ I'm a passionate problem solver and aspiring software developer currently pursui
 
 ---
 
+## 📚 Currently Learning
+
+- Advanced C++ STL techniques  
+- Dynamic Programming and Graph Algorithms  
+- Building algorithm visualizers in terminal using C/C++  
+
+---
+
 ## 📈 GitHub Insights  
 
 ![Akib's GitHub stats](https://github-readme-stats.vercel.app/api?username=ak1bhasan&show_icons=true&theme=tokyonight)  
