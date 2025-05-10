@@ -4,7 +4,7 @@
 
 ---
 
-I'm a passionate problem solver and aspiring software developer currently pursuing my degree in Computer Science and Engineering at [Metropolitan University](https://metrouni.edu.bd/). With a strong foundation in C and C++, I'm dedicated to writing clean, efficient, and maintainable code. My journey is fueled by curiosity and a constant drive to explore new technologies and challenges.
+I'm a passionate problem solver and aspiring software developer currently pursuing my degree in Computer Science and Engineering at [Metropolitan University](https://metrouni.edu.bd/). With a strong foundation in C and C++, I am always excited to dive into new technologies and challenges, constantly pushing myself to learn more and grow as a developer.
 
 ---
 
@@ -35,6 +35,12 @@ I'm a passionate problem solver and aspiring software developer currently pursui
 
 ---
 
+## 🏆 Achievements
+- Ranked in the top 10% on [Codeforces](https://codeforces.com/profile/ak1b_hasan)
+- Successfully solved over 300 problems on [LeetCode](https://leetcode.com/u/ak1b_hasan/)
+
+---
+
 ## 📈 GitHub Insights  
 
 ![Akib's GitHub stats](https://github-readme-stats.vercel.app/api?username=ak1bhasan&show_icons=true&theme=tokyonight)  
@@ -44,7 +50,7 @@ I'm a passionate problem solver and aspiring software developer currently pursui
 
 ## 🚀 Projects
 
-- 🎮 [0/1 Knapsack Visualizer](https://github.com/ak1bhasan/knapsack-visualizer) – Terminal-based visualization for the 0/1 Knapsack problem  
+- 🎮 [0/1 Knapsack Visualizer](https://github.com/ak1bhasan/knapsack-visualizer) – Terminal-based visualization tool for the 0/1 Knapsack problem  
 - 📚 [Library Management System](https://github.com/ak1bhasan/library-management) – A simple project built using C  
 
 ---
@@ -53,6 +59,8 @@ I'm a passionate problem solver and aspiring software developer currently pursui
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ak1bhasan/)  
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/__akibbb)  
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/akib.hasan.148553)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/akib.hasan.148553)  
 
 ---
+
+_"The best way to predict the future is to invent it."_ – Alan Kay
