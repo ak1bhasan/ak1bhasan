@@ -54,26 +54,10 @@ I'm Akib Hasan, a Competitive Programmer and Computer Science & Engineering (CSE
 
 ---
 
-### 🌐 Connect with Me  
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/ak1bhasan/" target="_blank">
-    <img alt="LinkedIn" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://www.facebook.com/akib.hasan.148553" target="_blank">
-    <img alt="Facebook" src="https://upload.wikimedia.org/wikipedia/commons/5/51/Facebook_f_logo_%282019%29.svg" width="40" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://www.instagram.com/akib___hasannn/" target="_blank">
-    <img alt="Instagram" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" width="40" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://x.com/__akibbb" target="_blank">
-    <img alt="Twitter" src="https://upload.wikimedia.org/wikipedia/en/6/60/X_logo_2023.svg" width="40" />
-  </a>
-</p>
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ak1bhasan/)  
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/__akibbb)  
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/akib.hasan.148553)  
+[![Email](https://img.shields.io/badge/Email-orange?style=for-the-badge&logo=gmail&logoColor=white)](mailto:akibhasan011@gmail.com)
 
 ---
 
