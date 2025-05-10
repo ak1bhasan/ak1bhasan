@@ -26,13 +26,11 @@ I'm Akib Hasan, a Competitive Programmer and Computer Science & Engineering (CSE
 
 ### 🏆 Competitive Programming Platforms  
 
-[![Codeforces](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Codeforces.svg)](https://codeforces.com/profile/ak1b_hasan)
-&nbsp;
-[![LeetCode](https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png)](https://leetcode.com/u/ak1b_hasan/)
-&nbsp;
-[![CodeChef](https://cdn.codechef.com/sites/all/themes/abessive/cc-logo.svg)](https://www.codechef.com/users/jax_teller)
-&nbsp;
-[![AtCoder](https://img.atcoder.jp/assets/icon/atcoder.png)](https://atcoder.jp/users/akib_hasannnn)
+### Competitive Programming Platforms:  
+[![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=flat&logo=codeforces&logoColor=white)](https://codeforces.com/profile/ak1b_hasan)  
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=black)](https://leetcode.com/u/ak1b_hasan/)  
+[![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=flat&logo=codechef&logoColor=white)](https://www.codechef.com/users/jax_teller)  
+[![AtCoder](https://img.shields.io/badge/AtCoder-000000?style=flat&logo=atcoder&logoColor=white)](https://atcoder.jp/users/akib_hasannnn)
 
 
 ---
