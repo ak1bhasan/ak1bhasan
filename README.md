@@ -13,11 +13,10 @@ I'm Akib Hasan, a Competitive Programmer and Computer Science & Engineering (CSE
 
 ### 🔧 Technical Skills  
 
-- **Languages**:  
-  ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)  
-  ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)  
+### 🔧 Technical Skills  
 
-- **Tools & Frameworks**: C++ STL, Git, Visual Studio Code, Code::Blocks 
+- **Languages**: C, C++  
+- **Tools & Frameworks**: C++ STL, Git, Visual Studio Code, Code::Blocks  
 
 ### Competitive Programming Platforms:  
 [![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=flat&logo=codeforces&logoColor=white)](https://codeforces.com/profile/ak1b_hasan)  
