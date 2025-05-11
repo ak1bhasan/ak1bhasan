@@ -28,7 +28,6 @@ I'm Akib Hasan, a Competitive Programmer and Computer Science & Engineering (CSE
 ### 📚 Currently Learning  
 - Advanced **C++ STL** techniques  
 - **Data Structures** & **Algorithms**  
-- Algorithm **Visualization** in terminal applications using **C/C++**
 
 ---
 
