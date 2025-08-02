@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=300&color=00FFFF&center=true&vCenter=true&width=600&lines=Hi+there;I'm+Akib+Hasan;Competitive+Programmer+%7C+CSE+Undergrad)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=300&color=00FFFF&center=true&vCenter=true&width=600&lines=Hi+there;I'm+Md.+Masudul+Hasan+Akib;Competitive+Programmer+%7C+CSE+Undergrad)](https://git.io/typing-svg)
 
 <img align="right" alt="Coding" width="300" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" />
 
@@ -6,7 +6,7 @@
 
 ### 👨‍💻 About Me  
 
-I'm Akib Hasan, a Competitive Programmer and Computer Science & Engineering (CSE) student at [Metropolitan University](https://metrouni.edu.bd/). I have a solid foundation in C and C++, and a strong passion for algorithmic problem-solving, data structures, and software development. I’m currently deepening my knowledge in STL (Standard Template Library), Data Structures (DS), and Algorithm Design & Analysis (AD&A). My goal is to build efficient, high-performance, and impactful software solutions, while continuously improving my coding and problem-solving skills through hands-on projects and competitive programming.
+I'm Md. Masudul Hasan Akib, a Competitive Programmer and Computer Science & Engineering (CSE) student at [Metropolitan University](https://metrouni.edu.bd/). I have a solid foundation in C and C++, and a strong passion for algorithmic problem-solving, data structures, and software development. I’m currently deepening my knowledge in STL (Standard Template Library), Data Structures (DS), and Algorithm Design & Analysis (AD&A). My goal is to build efficient, high-performance, and impactful software solutions, while continuously improving my coding and problem-solving skills through hands-on projects and competitive programming.
 
 
 ---
