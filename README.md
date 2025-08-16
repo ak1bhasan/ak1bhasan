@@ -33,6 +33,11 @@ I'm Md. Masudul Hasan Akib, a Competitive Programmer and Computer Science & Engi
 
 ### 🚀 Projects  
 
+- **[Algorithm Visualizer](https://github.com/ak1bhasan/Algorithm-Visualizer)**  
+  A Java-based project using **Swing & Graphics** to visualize **sorting** and **searching** algorithms interactively.  
+  Users can see step-by-step animations for Bubble Sort, Selection Sort, Merge Sort, Linear Search, Binary Search, as well as insertion and deletion operations.  
+  - **Technologies Used**: Java, Swing, AWT, Visual Studio
+    
 - **[0/1 Knapsack Visualizer](https://github.com/ak1bhasan/ADA-Project)**  
   A terminal-based project built using **C++** to visualize the 0/1 Knapsack problem, helping users understand dynamic programming.
   - **Technologies Used**: C++, Dynamic Programming
