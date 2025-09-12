@@ -48,10 +48,25 @@ I'm Md. Masudul Hasan Akib, a Competitive Programmer and Computer Science & Engi
 
 ---
 
+---
+
 ### 📈 GitHub Insights  
 
-![Akib's GitHub stats](https://github-readme-stats.vercel.app/api?username=ak1bhasan&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ak1bhasan&layout=compact&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=ak1bhasan&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ak1bhasan&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ak1bhasan&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ak1bhasan&theme=tokyonight" alt="Profile Summary" />
+</p>
+
+---
+
 
 ---
 
