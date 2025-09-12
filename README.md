@@ -54,12 +54,18 @@ I aim to build **efficient, scalable, and impactful software solutions**, while 
 ## 📊 GitHub Insights  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ak1bhasan&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ak1bhasan&layout=compact&theme=tokyonight&hide_border=true" height="180" alt="Top Languages" />
+  <a href="https://github.com/ak1bhasan">
+    <img src="https://github-readme-stats.vercel.app/api?username=ak1bhasan&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true" height="180" alt="GitHub Stats" />
+  </a>
+  <a href="https://github.com/ak1bhasan">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ak1bhasan&layout=compact&theme=tokyonight&hide_border=true" height="180" alt="Top Languages" />
+  </a>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=ak1bhasan&theme=tokyonight&hide_border=true" height="180" alt="GitHub Streak" />
+  <a href="https://github.com/ak1bhasan">
+    <img src="https://github-contribution-graph.ez4o.com/?username=ak1bhasan&theme=tokyonight&hide_border=true" alt="GitHub Contribution Graph" />
+  </a>
 </p>
 
 ---
