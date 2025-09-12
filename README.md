@@ -62,13 +62,6 @@ I aim to build **efficient, scalable, and impactful software solutions**, while 
   </a>
 </p>
 
-<p align="center">
-  <a href="https://github.com/ak1bhasan">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=ak1bhasan&theme=tokyonight&hide_border=true" alt="GitHub Contribution Graph" />
-  </a>
-</p>
-
----
 
 
 ## 🤝 Connect with Me  
