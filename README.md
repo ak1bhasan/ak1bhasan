@@ -48,10 +48,6 @@ I'm Md. Masudul Hasan Akib, a Competitive Programmer and Computer Science & Engi
 
 ---
 
----
-
----
-
 ### 📊 GitHub Insights  
 
 <p align="center">
@@ -62,9 +58,6 @@ I'm Md. Masudul Hasan Akib, a Competitive Programmer and Computer Science & Engi
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=ak1bhasan&theme=tokyonight&hide_border=true" height="180" alt="GitHub Streak" />
 </p>
-
----
-
 
 ---
 
