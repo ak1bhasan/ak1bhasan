@@ -67,19 +67,30 @@ I aim to build **efficient, scalable, and impactful software solutions**, while 
 ## 🤝 Connect with Me  
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/ak1bhasan/">
+  <a href="https://www.linkedin.com/in/ak1bhasan/" class="social-icon">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
   </a>
-  <a href="https://x.com/____akibbb">
+  <a href="https://x.com/__akibbb" class="social-icon">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" alt="Twitter" width="40" height="40"/>
   </a>
-  <a href="https://www.facebook.com/akib.hasan.148553">
+  <a href="https://www.facebook.com/akib.hasan.148553" class="social-icon">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" alt="Facebook" width="40" height="40"/>
   </a>
-  <a href="mailto:akibhasan011@gmail.com">
+  <a href="mailto:akibhasan011@gmail.com" class="social-icon">
     <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" alt="Gmail" width="40" height="40"/>
   </a>
 </p>
+
+<style>
+  .social-icon img {
+    transition: transform 0.3s ease, filter 0.3s ease;
+  }
+  .social-icon:hover img {
+    transform: scale(1.2);
+    filter: drop-shadow(0 0 5px #00ffff);
+  }
+</style>
+
 
 
 <p align="center"><i>"The best way to predict the future is to invent it."</i> – <b>Alan Kay</b></p>
