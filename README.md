@@ -1,6 +1,8 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=300&color=00FFFF&center=true&vCenter=true&width=600&lines=Hi+there!;I'm+Md.+Masudul+Hasan+Akib;Competitive+Programmer+%7C+CSE+Undergrad)](https://github.com/ak1bhasan)
 
-<img align="right" alt="Coding" width="250" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" style="display:block; border:none;" />
+<div style="float: right; margin-left: 20px;">
+  <img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" alt="Coding" width="250" style="display:block;" />
+</div>
 
 ---
 
