@@ -55,10 +55,18 @@ I aim to build **efficient, scalable, and impactful software solutions**, while 
 
 <p align="center">
   <a href="https://github.com/ak1bhasan">
-    <img src="https://github-readme-stats.vercel.app/api?username=ak1bhasan&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true" height="180" alt="GitHub Stats" />
+    <img 
+      src="https://github-readme-stats.vercel.app/api?username=ak1bhasan&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true" 
+      height="180em" 
+      alt="Akib's GitHub Stats"
+    />
   </a>
   <a href="https://github.com/ak1bhasan">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ak1bhasan&layout=compact&theme=tokyonight&hide_border=true" height="180" alt="Top Languages" />
+    <img 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=ak1bhasan&layout=compact&theme=tokyonight&hide_border=true" 
+      height="180em" 
+      alt="Top Languages"
+    />
   </a>
 </p>
 
