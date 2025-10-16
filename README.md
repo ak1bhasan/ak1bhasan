@@ -68,14 +68,14 @@ I aim to build **efficient, scalable, and impactful software solutions**, while 
   <a href="https://github.com/ak1bhasan">
     <img 
       src="https://github-readme-stats.vercel.app/api?username=ak1bhasan&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true" 
-      height="180em" 
+      width="350" 
       alt="Akib's GitHub Stats"
     />
   </a>
   <a href="https://github.com/ak1bhasan">
     <img 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=ak1bhasan&layout=compact&theme=tokyonight&hide_border=true" 
-      height="180em" 
+      width="350" 
       alt="Top Languages"
     />
   </a>
@@ -83,13 +83,12 @@ I aim to build **efficient, scalable, and impactful software solutions**, while 
 
 <p align="center">
   <img 
-    src="https://streak-stats.demolab.com?user=ak1bhasan&theme=tokyonight&hide_border=true" 
-    height="180em" 
+    src="https://streak-stats.demolab.com?user=ak1bhasan&theme=tokyonight&hide_border=true&stroke=00FFFF&background=0d1117" 
+    width="720" 
     alt="GitHub Streaks"
   />
 </p>
 
----
 
 ## 🤝 Connect with Me  
 
@@ -104,10 +103,9 @@ I aim to build **efficient, scalable, and impactful software solutions**, while 
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" alt="Facebook" width="40" height="40"/>
   </a>
   <a href="mailto:akibhasan011@gmail.com">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gmail/gmail-original.svg" alt="Gmail" width="40" height="40"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" alt="Gmail" width="40" height="40"/>
   </a>
 </p>
 
----
 
 <p align="center"><i>"The best way to predict the future is to invent it."</i> – <b>Alan Kay</b></p>
