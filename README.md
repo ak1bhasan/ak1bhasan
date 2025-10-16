@@ -10,6 +10,7 @@ I’m **Md. Masudul Hasan Akib**, a **Competitive Programmer** and **Computer Sc
 
 I have a strong foundation in **C and C++**, with a deep interest in **algorithmic problem-solving**, **data structures**, and **software development**.  
 Currently, I’m expanding my expertise in:  
+
 - **C++ STL (Standard Template Library)**  
 - **Data Structures & Algorithms**  
 - **Algorithm Design & Analysis**  
@@ -28,21 +29,31 @@ I aim to build **efficient, scalable, and impactful software solutions**, while 
 
 ## 🌐 Competitive Programming Profiles  
 
-[![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=flat&logo=codeforces&logoColor=white)](https://codeforces.com/profile/ak1b_hasan)  
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=black)](https://leetcode.com/u/ak1b_hasan/)  
-[![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=flat&logo=codechef&logoColor=white)](https://www.codechef.com/users/jax_teller)  
-[![AtCoder](https://img.shields.io/badge/AtCoder-000000?style=flat&logo=atcoder&logoColor=white)](https://atcoder.jp/users/akib_hasannnn)  
+<p align="center">
+  <a href="https://codeforces.com/profile/ak1b_hasan">
+    <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=flat&logo=codeforces&logoColor=white" />
+  </a>
+  <a href="https://leetcode.com/u/ak1b_hasan/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=black" />
+  </a>
+  <a href="https://www.codechef.com/users/jax_teller">
+    <img src="https://img.shields.io/badge/CodeChef-5B4638?style=flat&logo=codechef&logoColor=white" />
+  </a>
+  <a href="https://atcoder.jp/users/akib_hasannnn">
+    <img src="https://img.shields.io/badge/AtCoder-000000?style=flat&logo=atcoder&logoColor=white" />
+  </a>
+</p>
 
 ---
 
 ## 🚀 Projects  
 
 - **[Algorithm Visualizer](https://github.com/ak1bhasan/Algorithm-Visualizer)**  
-  Java-based project using **Swing & Graphics** to visualize sorting and searching algorithms with step-by-step animations.  
+  Java-based project using **Swing & Graphics** to visualize sorting and searching algorithms step-by-step.  
   *Technologies:* Java, Swing, AWT  
 
 - **[0/1 Knapsack Visualizer](https://github.com/ak1bhasan/ADA-Project)**  
-  Terminal-based project in **C++** for visualizing the **0/1 Knapsack Problem** with dynamic programming.  
+  Terminal-based project in **C++** for visualizing the **0/1 Knapsack Problem** using dynamic programming.  
   *Technologies:* C++, Dynamic Programming  
 
 - **[Library Management System](https://github.com/ak1bhasan/FirstProjectMU)**  
@@ -90,10 +101,10 @@ I aim to build **efficient, scalable, and impactful software solutions**, while 
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" alt="Twitter" width="40" height="40"/>
   </a>
   <a href="https://www.facebook.com/akib.hasan.148553">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/facebook.svg" alt="Facebook" width="40" height="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" alt="Facebook" width="40" height="40"/>
   </a>
   <a href="mailto:akibhasan011@gmail.com">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/gmail.svg" alt="Gmail" width="40" height="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gmail/gmail-original.svg" alt="Gmail" width="40" height="40"/>
   </a>
 </p>
 
