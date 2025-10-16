@@ -9,11 +9,14 @@
 I’m **Md. Masudul Hasan Akib**, a **Competitive Programmer** and **Computer Science & Engineering (CSE)** undergraduate at [Metropolitan University](https://metrouni.edu.bd/).  
 
 I have a strong foundation in **C and C++**, with a deep interest in **algorithmic problem-solving**, **data structures**, and **software development**.  
+Recently, I’ve started learning **Python** with a focus on **Machine Learning (ML) and Artificial Intelligence (AI)**.  
+
 Currently, I’m expanding my expertise in:  
 
 - **C++ STL (Standard Template Library)**  
 - **Data Structures & Algorithms**  
 - **Algorithm Design & Analysis**  
+- **Python for ML & AI**  
 
 I aim to build **efficient, scalable, and impactful software solutions**, while continuously improving my problem-solving skills through **competitive programming** and hands-on projects.  
 
