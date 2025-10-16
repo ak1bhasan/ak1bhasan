@@ -1,6 +1,6 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=300&color=00FFFF&center=true&vCenter=true&width=600&lines=Hi+there!;I'm+Md.+Masudul+Hasan+Akib;Competitive+Programmer+%7C+CSE+Undergrad)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=300&color=00FFFF&center=true&vCenter=true&width=600&lines=Hi+there!;I'm+Md.+Masudul+Hasan+Akib;Competitive+Programmer+%7C+CSE+Undergrad)](https://github.com/ak1bhasan)
 
-<img align="right" alt="Coding" width="300" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" />
+<img align="right" alt="Coding" width="250" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" />
 
 ---
 
@@ -8,7 +8,7 @@
 
 I’m **Md. Masudul Hasan Akib**, a **Competitive Programmer** and **Computer Science & Engineering (CSE)** undergraduate at [Metropolitan University](https://metrouni.edu.bd/).  
 
-I have a strong foundation in **C / C++** and a deep interest in **algorithmic problem-solving**, **data structures**, and **software development**.  
+I have a strong foundation in **C and C++**, with a deep interest in **algorithmic problem-solving**, **data structures**, and **software development**.  
 Currently, I’m expanding my expertise in:  
 - **C++ STL (Standard Template Library)**  
 - **Data Structures & Algorithms**  
@@ -20,9 +20,9 @@ I aim to build **efficient, scalable, and impactful software solutions**, while 
 
 ## 🔧 Skills  
 
-- **Languages**: C, C++  
-- **Tools & Frameworks**: C++ STL, Git, Visual Studio Code, Code::Blocks  
-- **Domains of Interest**: Competitive Programming, Algorithm Design, Software Development  
+- **Languages:** C, C++  
+- **Tools & Frameworks:** C++ STL, Git, Visual Studio Code, Code::Blocks  
+- **Domains of Interest:** Competitive Programming, Algorithm Design, Software Development  
 
 ---
 
@@ -39,15 +39,15 @@ I aim to build **efficient, scalable, and impactful software solutions**, while 
 
 - **[Algorithm Visualizer](https://github.com/ak1bhasan/Algorithm-Visualizer)**  
   Java-based project using **Swing & Graphics** to visualize sorting and searching algorithms with step-by-step animations.  
-  *Technologies*: Java, Swing, AWT  
+  *Technologies:* Java, Swing, AWT  
 
 - **[0/1 Knapsack Visualizer](https://github.com/ak1bhasan/ADA-Project)**  
   Terminal-based project in **C++** for visualizing the **0/1 Knapsack Problem** with dynamic programming.  
-  *Technologies*: C++, Dynamic Programming  
+  *Technologies:* C++, Dynamic Programming  
 
 - **[Library Management System](https://github.com/ak1bhasan/FirstProjectMU)**  
   Simple **C** program for managing books, authors, and borrowers using file handling.  
-  *Technologies*: C, File Handling  
+  *Technologies:* C, File Handling  
 
 ---
 
@@ -70,7 +70,15 @@ I aim to build **efficient, scalable, and impactful software solutions**, while 
   </a>
 </p>
 
+<p align="center">
+  <img 
+    src="https://streak-stats.demolab.com?user=ak1bhasan&theme=tokyonight&hide_border=true" 
+    height="180em" 
+    alt="GitHub Streaks"
+  />
+</p>
 
+---
 
 ## 🤝 Connect with Me  
 
@@ -82,10 +90,10 @@ I aim to build **efficient, scalable, and impactful software solutions**, while 
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" alt="Twitter" width="40" height="40"/>
   </a>
   <a href="https://www.facebook.com/akib.hasan.148553">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" alt="Facebook" width="40" height="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/facebook.svg" alt="Facebook" width="40" height="40"/>
   </a>
   <a href="mailto:akibhasan011@gmail.com">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" alt="Gmail" width="40" height="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/gmail.svg" alt="Gmail" width="40" height="40"/>
   </a>
 </p>
 
