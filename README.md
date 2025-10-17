@@ -84,13 +84,6 @@ I aim to build **efficient, scalable, and impactful software solutions**, while 
   </a>
 </p>
 
-<p align="center">
-  <img 
-    src="https://streak-stats.demolab.com?user=ak1bhasan&theme=tokyonight&hide_border=true&stroke=00FFFF&background=0d1117" 
-    width="720" 
-    alt="GitHub Streaks"
-  />
-</p>
 
 
 ## 🤝 Connect with Me  
