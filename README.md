@@ -65,24 +65,25 @@ I aim to build **efficient, scalable, and impactful software solutions**, while 
 
 ---
 
-## 📊 GitHub Insights  
+## 📊 GitHub Insights
 
 <p align="center">
   <a href="https://github.com/ak1bhasan">
     <img 
-      src="https://github-readme-stats.vercel.app/api?username=ak1bhasan&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true" 
+      src="https://github-readme-stats.vercel.app/api?username=ak1bhasan&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&cache_seconds=1800" 
       width="350" 
       alt="Akib's GitHub Stats"
     />
   </a>
   <a href="https://github.com/ak1bhasan">
     <img 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=ak1bhasan&layout=compact&theme=tokyonight&hide_border=true" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=ak1bhasan&layout=compact&theme=tokyonight&hide_border=true&langs_count=10&cache_seconds=1800" 
       width="350" 
       alt="Top Languages"
     />
   </a>
 </p>
+
 
 
 
