@@ -8,15 +8,14 @@
 
 ## 👨‍💻 About Me  
 
-I’m **Md. Masudul Hasan Akib**, a **Competitive Programmer** and **Computer Science & Engineering (CSE)** undergraduate at [Metropolitan University](https://metrouni.edu.bd/).  
+I’m **Md. Masudul Hasan Akib**, a **Competitive Programmer** and **Computer Science & Engineering (CSE)** undergraduate at [Metropolitan University](https://metrouni.edu.bd/).
 
-I have a strong foundation in **C and C++**, with a deep interest in **algorithmic problem-solving**, **data structures**, and **software development**.  
+I have a strong foundation in **C and C++**, with a deep interest in **algorithmic problem-solving**, **data structures**, and **software development**.
 
-Recently, I’ve started learning **Python** with a focus on **Machine Learning (ML) and Artificial Intelligence (AI)**.  
+Alongside this, I have developed solid proficiency in **Python** and am currently advancing into **Machine Learning (ML)** and **Artificial Intelligence (AI)**.
 
 Currently expanding my expertise in:
 
-- ⚡ **C++ STL (Standard Template Library)**
 - 📚 **Data Structures & Algorithms**
 - 🧠 **Algorithm Design & Analysis**
 - 🤖 **Python for ML & AI**
@@ -53,6 +52,10 @@ I aim to build **efficient, scalable, and impactful software solutions**, while 
 ---
 
 ## 🚀 Projects  
+
+### 🔹 [ShopNow](https://github.com/ak1bhasan/ShopNow)  
+Full-stack Flask E-commerce platform with authentication, product management, cart system, checkout flow, and admin dashboard.  
+**Tech:** Python (Flask), MySQL, HTML, CSS, JavaScript  
 
 ### 🔹 [Algorithm Visualizer](https://github.com/ak1bhasan/Algorithm-Visualizer)
 Java-based project using **Swing & Graphics** to visualize sorting and searching algorithms step-by-step.  
