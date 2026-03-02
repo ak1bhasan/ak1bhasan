@@ -61,7 +61,7 @@ Full-stack Flask E-commerce platform with authentication, product management, ca
 Java-based project using **Swing & Graphics** to visualize sorting and searching algorithms step-by-step.  
 **Tech:** Java, Swing, AWT  
 
-### 🔹 [0/1 Knapsack Visualizer](https://github.com/ak1bhasan/ADA-Project)
+### 🔹 [0/1 Knapsack Visualizer](https://github.com/ak1bhasan/0-1_Knapsack_Visualizer)
 Terminal-based project in **C++** for visualizing the **0/1 Knapsack Problem** using dynamic programming.  
 **Tech:** C++, Dynamic Programming  
 
