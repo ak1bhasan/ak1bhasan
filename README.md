@@ -26,9 +26,9 @@ I aim to build **efficient, scalable, and impactful software solutions**, while 
 
 ## 🔧 Skills
 
-**Languages & Libraries:** C, C++, Python, Data Structures 
+**Languages & Libraries:** C, C++, Python, C++ STL  
 **Tools:** Git, VS Code, Code::Blocks  
-**Interests:** Competitive Programming, Algorithm Design & Analysis, Software Development, Machine Learning & AI 
+**Interests:** Competitive Programming, Problem Solving, Data Structures, Software Development, Machine Learning & AI
 
 ---
 
