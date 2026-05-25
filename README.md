@@ -78,13 +78,6 @@ Prints the full DP table for the 0/1 Knapsack problem with item-by-item decision
 
 ---
 
-### [Library Management System](https://github.com/ak1bhasan/FirstProjectMU)
-`C` `File I/O`
-
-C program for managing books, authors, and borrow records using file-based storage. Required working directly with record serialization and retrieval without a database layer.
-
----
-
 ## GitHub Activity
 
 <div align="center">
@@ -102,7 +95,7 @@ C program for managing books, authors, and borrow records using file-based stora
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ak1bhasan&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution+Activity" width="760"/>
+<img id="profile-details" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ak1bhasan&theme=tokyonight" alt="Profile Details" style="width: 100%;">
 
 </div>
 
