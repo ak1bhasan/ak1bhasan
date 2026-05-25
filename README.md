@@ -87,28 +87,6 @@ Prints the full DP table for the 0/1 Knapsack problem with item-by-item decision
 
 </div>
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ak1bhasan&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&count_private=true" width="300"/>
-
-</div>
-
-<div align="center">
-
-<img id="profile-details" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ak1bhasan&theme=tokyonight" alt="Profile Details" style="width: 100%;">
-
-</div>
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ak1bhasan/ak1bhasan/output/github-contribution-grid-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ak1bhasan/ak1bhasan/output/github-contribution-grid-snake.svg"/>
-  <img alt="contribution snake animation" src="https://raw.githubusercontent.com/ak1bhasan/ak1bhasan/output/github-contribution-grid-snake.svg"/>
-</picture>
-
-</div>
-
 ---
 
 <div align="center">
