@@ -82,11 +82,15 @@ Prints the full DP table for the 0/1 Knapsack problem with item-by-item decision
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=ak1bhasan&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&hide_rank=true" width="370"/>
 <img src="https://streak-stats.demolab.com?user=ak1bhasan&theme=tokyonight&hide_border=true" width="390"/>
 
 </div>
 
+<div align="center">
+
+<img id="profile-details" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ak1bhasan&theme=tokyonight" alt="Profile Details" style="width: 100%;">
+
+</div>
 ---
 
 <div align="center">
