@@ -91,6 +91,7 @@ Prints the full DP table for the 0/1 Knapsack problem with item-by-item decision
 <img id="profile-details" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ak1bhasan&theme=tokyonight" alt="Profile Details" style="width: 100%;">
 
 </div>
+
 ---
 
 <div align="center">
