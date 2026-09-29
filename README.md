@@ -22,6 +22,10 @@ Open to research internships, ML engineering roles, and open-source collaboratio
 
 ## Projects
 
+## Projects
+
+- **[Amazon Review Sentiment Analysis](https://github.com/ak1bhasan/amazon-review-sentiment-analysis)**: Compared Simple RNN, LSTM, and GRU for binary sentiment classification on a 50,000-review sample. GRU scored best (90.18% test accuracy), and padding masking proved essential. `Python` `TensorFlow` `Keras`
+- **[ZenFlow](https://github.com/ak1bhasan/ZenFlow)**: Team project for a Web Programming course, a full-stack productivity and expense-tracking platform. I worked mainly on the frontend. `Next.js` `React` `TypeScript` `Django`
 - **[Movie Recommender System](https://github.com/ak1bhasan/Movie-Recommender-System)**: Hybrid recommender combining content-based filtering (TF-IDF) and collaborative filtering (cosine similarity). `Python` `scikit-learn`
 - **[ShopNow](https://github.com/ak1bhasan/ShopNow)**: Full-stack e-commerce app with authentication, cart, checkout, and an admin dashboard. Uses raw SQL and no frontend framework. `Flask` `MySQL`
 - **[Algorithm Visualizer](https://github.com/ak1bhasan/Algorithm-Visualizer)**: Desktop app that visualizes sorting and searching algorithms. `Java` `Swing`
