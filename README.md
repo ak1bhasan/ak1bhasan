@@ -1,15 +1,22 @@
 # Md. Masudul Hasan Akib
 
-CSE undergraduate at [Metropolitan University](https://metrouni.edu.bd/) · Competitive programmer · ML practitioner
+CSE undergraduate at [Metropolitan University Bangladesh](https://metrouni.edu.bd/) · VC Scholarship recipient
+
+I'm focused on Machine Learning and Deep Learning, with the goal of doing research: understanding why models work, where they fail, and contributing to new techniques. My competitive programming background gives me a strong foundation in algorithms and problem-solving.
 
 Open to research internships, ML engineering roles, and open-source collaboration.
 
 [Codeforces](https://codeforces.com/profile/ak1b_hasan) · [LeetCode](https://leetcode.com/u/ak1b_hasan/) · [AtCoder](https://atcoder.jp/users/akib_hasannnn) · [CodeChef](https://www.codechef.com/users/jax_teller) · [LinkedIn](https://www.linkedin.com/in/ak1bhasan/) · [Email](mailto:akibhasan011@gmail.com)
 
+## Currently
+
+- Studying Deep Learning
+- Working on ML/DL research
+
 ## Skills
 
-- **Languages:** C++, Python, Java
-- **ML:** scikit-learn, NumPy, Pandas, Matplotlib, Seaborn
+- **Languages:** Python, C++, C, Java
+- **Machine Learning:** scikit-learn, NumPy, Pandas, Matplotlib, Seaborn
 - **Concepts:** supervised/unsupervised learning, model evaluation, feature engineering, dynamic programming, graph theory
 - **Tools:** Git, Jupyter, Google Colab, Kaggle, VS Code
 
