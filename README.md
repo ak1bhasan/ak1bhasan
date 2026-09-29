@@ -1,6 +1,6 @@
 # Md. Masudul Hasan Akib
 
-CSE undergraduate at [Metropolitan University Bangladesh](https://metrouni.edu.bd/) · VC Scholarship recipient
+CSE undergraduate at [Metropolitan University Bangladesh](https://metrouni.edu.bd/)
 
 I'm focused on Machine Learning and Deep Learning, with the goal of doing research: understanding why models work, where they fail, and contributing to new techniques. My competitive programming background gives me a strong foundation in algorithms and problem-solving.
 
